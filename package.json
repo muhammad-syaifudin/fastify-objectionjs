@@ -44,7 +44,7 @@
   },
   "dependencies": {
     "fastify-plugin": "^4.3.0",
-    "knex": "^2.3.0",
+    "knex": "https://github.com/muhammad-syaifudin/knex",
     "objection": "^3.0.1"
   },
   "peerDependencies": {
